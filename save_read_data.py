@@ -5,8 +5,6 @@ import numpy as np
 from scipy import interpolate
 import matplotlib.pyplot as plt
 from tqdm import tqdm
-import camb
-from camb import model, initialpower
 import h5py
 from scipy.spatial import KDTree
 
